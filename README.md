@@ -14,7 +14,6 @@ source ./env/bin/activate
 
 b).Windows
 \path\to\env\Scripts\activate
-
 ex : C:\Users\'Username'\venv\Scripts\activate.bat
 
 
@@ -29,15 +28,13 @@ python manage.py runserver
 Create your enviroment and then run
 
 1.Linux
-
 python3 -m venv env
 
-**Go to above step
 
 2.Windows
-
 https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/
 
+                             ******Go to above step******
 
 ###################### Change password of admin or create new admin #######################
 
@@ -49,3 +46,10 @@ python manage.py createsuperuser
 2.Change password
 
 python manage.py changepassword <user_name>
+
+
+
+################## Frontend ##########################
+
+Its frontend is in "BlogProject/notlinktemplates"
+

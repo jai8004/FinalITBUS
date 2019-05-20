@@ -46,3 +46,9 @@ python manage.py createsuperuser
 2.Change password
 
 python manage.py changepassword <user_name>
+
+
+
+################## Frontend ##########################
+
+Its frontend is in "BlogProject/notlinktemplates"
