@@ -32,7 +32,7 @@ Create your enviroment and then run
 
 python3 -m venv env
 
-## Go to above step
+**Go to above step
 
 2.Windows
 
